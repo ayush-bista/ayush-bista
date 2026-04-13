@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on a secret website<br>📖 I am persuing BSc (Hons) Computing <br>🏫 I am currently studying at London Metropolitan University 
+👨‍💻 I'm currently working on a secret website<br>📖 I am currently persuing BSc (Hons) Computing <br>🏫 I am currently studying at London Metropolitan University 
 
 
 ## 🌐 Socials:
